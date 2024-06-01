@@ -1,13 +1,18 @@
 
 body {
-    background-color: #13171F;
-    font-size: 15px;
-    font-family: 'Poppins';
-    place-content: center;
-  }
-  @media scream and(min-width:570px)  {  
 
-  }
+  background-color: #0056b3;
+}
+              
+  @media scream and(min-width:570px)  {  
+    body {
+      background-color: #365085;
+      font-size: 15px;
+      font-family: 'Poppins';
+      place-content: center;
+    }; 
+    background: #ad5389;
+}
 
 
 
