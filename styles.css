@@ -3,15 +3,37 @@ body {
 
   background-color: #0056b3;
 }
-              
+  @media screen (max-width: 569px){
+
+    background-color: #365085;
+    font-size: 15px;
+    font-family: 'Poppins';
+    place-content: center;
+  };
+  background: #06beb6; /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #06beb6, #48b1bf); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #06beb6, #48b1bf); 
+
+
+}
+
+
+
+  }
+  
+
   @media scream and(min-width:570px)  {  
     body {
       background-color: #365085;
       font-size: 15px;
       font-family: 'Poppins';
       place-content: center;
-    }; 
-    background: #ad5389;
+    };
+    background: #06beb6; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #06beb6, #48b1bf); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #06beb6, #48b1bf); 
+
+
 }
 
 
