@@ -5,10 +5,16 @@ body {
     font-family: 'Poppins';
     place-content: center;
   }
-  
+  @media scream and(min-width:570px)  {  
+
+  }
+
+
+
   .calculator {
     margin: auto;
   }
+  
   
   input[type="number"] {
     width: 200px;
@@ -52,4 +58,8 @@ body {
     background-color: rgb(212, 212, 212);
     border-radius: 30px;
   }
+
   
+
+
+
