@@ -28,9 +28,9 @@ function dividir() {
 }
 
 function potencia() {
-// ingresa aqui tu codigo.
-// ingresa aqui tu codigo.
-// ingresa aqui tu codigo. ¡¡¡pista!!!,asi se realizala potencia: Math.pow(num1, num2):
+   var num1 = Marth.pow(document.getElementById('num1').value);
+   var num2 = Marth.pow(document.getElementById('num2').value);
+   var resultado = num1 ^ num2;
 document.getElementById('resultado').innerText=resultado;
 }
 
@@ -47,7 +47,7 @@ function modulo(){
     document.getElementById('resultado').innerText = resultado;
 }
 
-function cleaner(){
+function cleaner(){+++++
     document.getElementById('num1').value="";
     document.getElementById('num2').value="";
     document.getElementById('resultado').innerHTML="";
