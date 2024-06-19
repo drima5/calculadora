@@ -47,7 +47,7 @@ function modulo(){
     document.getElementById('resultado').innerText = resultado;
 }
 
-function cleaner(){+++++
+function cleaner(){
     document.getElementById('num1').value="";
     document.getElementById('num2').value="";
     document.getElementById('resultado').innerHTML="";
