@@ -1,7 +1,7 @@
 /*Estilo general */
 body {
-  background: #1d2671; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #c33764, #1d2671); /* chrome 10-25,Safari 5.1-6 */
+  background: #0d030c; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #c33764, #06081a); /* chrome 10-25,Safari 5.1-6 */
   background: linear-gradient(to right, #c33764, #1d2671); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   font-family: 'Poppins',sans-serif;
   display: flex;
@@ -13,9 +13,9 @@ body {
 } 
   
 .calculartor {
-   background: #2c3e50;
-   padding:  20px;
-   border-radius:  15px;
+   background: #2e502c;
+   padding:  50px;
+   border-radius:  25px;
    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
    text-align: center;
    max-width:  400px;
